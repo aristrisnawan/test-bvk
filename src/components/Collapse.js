@@ -25,7 +25,7 @@ export default function Collapse() {
   return (
     <div>
       <div className="text-center">
-        <h1 className="mobile:text-xl font-bold mobile:py-5 tablet:text-2xl my-5">
+        <h1 className="mobile:text-xl font-bold mobile:py-5 tablet:text-2xl tablet:my-9">
           Jenis-jenis Kucing di Dunia
         </h1>
       </div>
